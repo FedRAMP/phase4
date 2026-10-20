@@ -8,8 +8,8 @@ nav = [
   ]},
   { "20x Class D Pilot" = [
     "pilot/index.md",
-    { "Stuff" = [
-        { "Placeholder" = "pilot/placeholder.md"}
+    { "Rules" = [
+        { "Participation" = "pilot/participation.md"}
     ]}
 
 
