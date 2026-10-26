@@ -8,26 +8,19 @@ nav = [
   ]},
   { "20x Class D Pilot" = [
     "pilot/index.md",
-    { "Rules" = [
-        { "Participation" = "pilot/participation.md"}
-    ]}
-
-
+       { "Schedule" = "pilot/schedule.md"},
+       { "Participation" = "pilot/participation.md"},
+       { "Rules" = "pilot/rules.md"},
   ]},
-  { "20x Self-Hosted Cloud" = [
+  { "Agency Use Pilot" = [
+    "use/index.md",
+        { "Placeholder" = "use/placeholder.md"}
+  ]},
+  { "20x Self-Hosted Rules" = [
     "self-hosted/index.md",
-    { "Stuff" = [
-        { "Placeholder" = "self-hosted/placeholder.md"}
-    ]}
+        { "Schedule" = "self-hosted/schedule.md"},
+        { "Participation" = "self-hosted/participation.md"}
   ]},
-  { "Independent Assessors" = [
-    "ias/index.md",
-    { "Stuff" = [
-        { "Placeholder" = "ias/placeholder.md"}
-    ]}
-  ]},
-
-
 ]
 
 site_name = "FedRAMP 20x Phase 4"

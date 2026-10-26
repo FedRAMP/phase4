@@ -23,22 +23,23 @@ Phase 4 will be completed successfully when FedRAMP has performed at least 3 Fed
 
     [Pilot Information](pilot/index.md){ data-preview }
 
+-   :lucide-blocks:{ .xl .middle .placeholder } **Agency Use Pilot**
+
+    ---
+
+    Developing and testing the new FedRAMP Board-approved Cloud Authorization Management Framework and
+    Cloud Security Authorization process with agencies - for both FedRAMP Rev5 and 20x.
+
+    [Cloud Authorization Management Framework Pilot](use/index.md){ data-preview }
+
+
 -   :lucide-server-plus:{ .xl .middle .empty } **Self-Hosted Cloud**
 
     ---
 
     Working with industry to update FedRAMP requirements based on existing commercial standards for datacenter and facility management.
 
-    [Datacenter Requirements](self-hosted/index.md){ data-preview }
-
--   :lucide-scan-eye:{ .xl .middle .placeholder } **Independent Assessors**
-
-    ---
-
-    Leveraging the unique experience of independent assessment services to inform the adoption of existing commercial standards for datacenter and facility management.
-
-    [IAS Engagement](ias/index.md){ data-preview }
-
+    [Self-Hosted Rules](self-hosted/index.md){ data-preview }
 
 </div>
 
