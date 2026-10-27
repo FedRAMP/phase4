@@ -157,6 +157,6 @@ logo = "overrides/assets/fr-only-logo-black.png"
 [project.plugins.rss]
 enabled = true
 feed_title = "FedRAMP 20x Phase 4 Changelog"
-match_path = "^changelog(?:/|$)"
+match_path = "^changelog\\.md$"
 length = 1
-abstract_chars_count = 1024
+abstract_chars_count = 4096
