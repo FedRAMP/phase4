@@ -1,5 +1,9 @@
 # The latest on FedRAMP 20x Phase 4
 
+!!! danger "This site is under development."
+
+    It shouldn't be public, but if you've stumbled across it, please stand by.
+
 FedRAMP 20x entered Phase 4 on October 1, 2026. This phase is anticipated to last until March 31, 2027.
 
 Phase 4 will be completed successfully when FedRAMP has performed at least 3 FedRAMP 20x Class D Pilot Certifications and finished the background research necessary to develop a new model for assessing physical datacenter and facility controls based on existing commercial certifications.
@@ -43,8 +47,3 @@ Phase 4 will be completed successfully when FedRAMP has performed at least 3 Fed
 
 </div>
 
----
-
-## Changelog
-
-This contains a log of changes to this website since it has been published.
