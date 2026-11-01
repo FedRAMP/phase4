@@ -1,6 +1,6 @@
 # The latest on FedRAMP 20x Phase 4
 
-!!! danger "This site is under development."
+!!! danger "This site is under development. :)"
 
     It shouldn't be public, but if you've stumbled across it, please stand by.
 
