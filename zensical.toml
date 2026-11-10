@@ -6,10 +6,10 @@ nav = [
         { "Changelog" = "changelog.md"}
   ]},
   { "20x Class D Pilot" = [
-    "pilot/index.md",
-       { "Schedule" = "pilot/schedule.md"},
-       { "Participation" = "pilot/participation.md"},
-       { "Rules" = "pilot/rules.md"},
+    "d/index.md",
+       { "Schedule" = "d/schedule.md"},
+       { "Participation" = "d/participation.md"},
+       { "Rules" = "d/rules.md"},
   ]},
   { "Agency Use Pilot" = [
     "use/index.md",
@@ -19,6 +19,9 @@ nav = [
     "self-hosted/index.md",
         { "Schedule" = "self-hosted/schedule.md"},
         { "Participation" = "self-hosted/participation.md"}
+  ]},
+  { "Rev5 Closeout" = [
+    "rev5/index.md",
   ]},
   { "--> return to FedRAMP.gov" = "/" },
 ]
