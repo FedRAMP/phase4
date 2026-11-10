@@ -25,7 +25,7 @@ Phase 4 will be completed successfully when FedRAMP has performed at least 3 Fed
 
     Developing and testing assurance requirements for FedRAMP 20x Class D (High) with industry.
 
-    [Pilot Information](pilot/index.md){ data-preview }
+    [Class D Pilot Information](d/index.md){ data-preview }
 
 -   :lucide-blocks:{ .xl .middle .placeholder } **Agency Use Pilot**
 
