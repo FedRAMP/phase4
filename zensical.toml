@@ -11,16 +11,20 @@ nav = [
        { "Participation" = "d/participation.md"},
        { "Rules" = "d/rules.md"},
   ]},
-  { "Agency Use Pilot" = [
+  { "Agency Cloud Use Pilot" = [
     "use/index.md",
         { "Placeholder" = "use/placeholder.md"}
   ]},
-  { "20x Self-Hosted Rules" = [
+  { "A-130 Class G Pilot" = [
+    "g/index.md",
+        { "Placeholder" = "g/placeholder.md"}
+  ]},
+  { "20x Self-Hosted" = [
     "self-hosted/index.md",
         { "Schedule" = "self-hosted/schedule.md"},
         { "Participation" = "self-hosted/participation.md"}
   ]},
-  { "Rev5 Closeout" = [
+  { "Rev5 Program Closeout" = [
     "rev5/index.md",
   ]},
   { "--> return to FedRAMP.gov" = "/" },

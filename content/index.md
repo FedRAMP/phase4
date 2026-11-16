@@ -4,46 +4,53 @@
 
     It shouldn't be public, but if you've stumbled across it, please stand by.
 
-FedRAMP 20x entered Phase 4 on October 1, 2026. This phase is anticipated to last until March 31, 2027.
+FedRAMP 20x Phase 4 is a 9-month pilot and development phase intended to transition all new commercial FedRAMP Certifications to FedRAMP 20x. It began on **October 1, 2026 (FY27 Q1)** and will run through **June 30, 2027 (FY27 Q3)**.
 
-Phase 4 will be completed successfully when FedRAMP has performed at least 3 FedRAMP 20x Class D Pilot Certifications and finished the background research necessary to develop a new model for assessing physical datacenter and facility controls based on existing commercial certifications.
-
-!!! info "Monitoring Phase 4"
-
-    FedRAMP will maintain this web page during Phase 4 as the primary source of truth for all Phase 4 activities. It will always show the latest dates and information. You may see dates or information in RFCs, Community Updates, Blog Posts, or other sources that have been overcome by events, but the dates on this page should always reflect FedRAMP's current goals.
-
+At the completion of Phase 4, FedRAMP 20x will move into Phase 5 which will focus on creating a transition path for legacy Rev5 Certifications.
 
 ---
 
-## Phase 4 Engagement Tracks
+## :lucide-cloud-cog:{ .xl .middle .stable }   **20x Class D Pilot**
 
-<div class="grid cards" markdown>
+Developing and testing assurance requirements for FedRAMP 20x Class D (High). The 20x Class D Pilot will start
+in January 2027 and is open to participants with a FedRAMP 20x Class C Certification who are selected by FedRAMP based on
+qualifications shown in a special application.
 
--   :lucide-plane-takeoff:{ .xl .middle .stable } **The 20x Class D Pilot**
+[20x Class D Pilot](d/index.md){ data-preview }
 
-    ---
+---
 
-    Developing and testing assurance requirements for FedRAMP 20x Class D (High) with industry.
+## :lucide-cloud-sync:{ .xl .middle .placeholder } **Agency Cloud Use Pilot**
 
-    [Class D Pilot Information](d/index.md){ data-preview }
+Developing and testing the new FedRAMP Board-approved Cloud Authorization Management Framework and
+Cloud Security Authorization process with agencies - for both FedRAMP Rev5 and 20x.
 
--   :lucide-blocks:{ .xl .middle .placeholder } **Agency Use Pilot**
+[Agency Cloud Use Pilot](use/index.md){ data-preview }
 
-    ---
+---
 
-    Developing and testing the new FedRAMP Board-approved Cloud Authorization Management Framework and
-    Cloud Security Authorization process with agencies - for both FedRAMP Rev5 and 20x.
+## :lucide-handshake:{ .xl .middle .stable }   **A-130 Class G Pilot**
 
-    [Cloud Authorization Management Framework Pilot](use/index.md){ data-preview }
+Working with agencies to implement government-specific expectations for agency-provided cloud service offerings created by government, for government.
 
+[A-130 Class G Pilot](g/index.md){ data-preview }
 
--   :lucide-server-plus:{ .xl .middle .empty } **Self-Hosted Cloud**
+---
 
-    ---
+## :lucide-server:{ .xl .middle .empty } **20x Self-Hosted**
 
-    Working with industry to update FedRAMP requirements based on existing commercial standards for datacenter and facility management.
+Collaborating with industry to identify effective existing commercial certifications and requirements that can be reused for self-hosted or hybrid-hosted
+services as an alternative to a traditional control-based approach for managing physical datacenter infrastructure.
 
-    [Self-Hosted Rules](self-hosted/index.md){ data-preview }
+[20x Self-Hosted](self-hosted/index.md){ data-preview }
 
-</div>
+---
 
+## :lucide-rotate-cw-fading-clock:{ .xl .middle .empty } **Rev5 Program Closeout**
+
+New FedRAMP Rev5 Certification won't be available after June 11, 2027, so FedRAMP will initiate a special project in early 2027 to ensure that
+any cloud service offering that is in process with an agency sponsor for Rev5 can receive a FedRAMP Certification before the pipeline officially closes.
+
+[Rev5 Program Closeout](rev5/index.md){ data-preview }
+
+---
