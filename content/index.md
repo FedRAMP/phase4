@@ -10,7 +10,11 @@ At the completion of Phase 4, FedRAMP 20x will move into Phase 5 which will focu
 
 ---
 
-## :lucide-cloud-cog:{ .xl .middle .stable }   **20x Class D Pilot**
+## Industry Facing Initiatives
+
+---
+
+## :lucide-cloud-cog:{ .xl .middle .stable } **20x Class D Pilot**
 
 Developing and testing assurance requirements for FedRAMP 20x Class D (High). The 20x Class D Pilot will start
 in January 2027 and is open to participants with a FedRAMP 20x Class C Certification who are selected by FedRAMP based on
@@ -20,24 +24,7 @@ qualifications shown in a special application.
 
 ---
 
-## :lucide-cloud-sync:{ .xl .middle .placeholder } **Agency Cloud Use Pilot**
-
-Developing and testing the new FedRAMP Board-approved Cloud Authorization Management Framework and
-Cloud Security Authorization process with agencies - for both FedRAMP Rev5 and 20x.
-
-[Agency Cloud Use Pilot](use/index.md){ data-preview }
-
----
-
-## :lucide-handshake:{ .xl .middle .stable }   **A-130 Class G Pilot**
-
-Working with agencies to implement government-specific expectations for agency-provided cloud service offerings created by government, for government.
-
-[A-130 Class G Pilot](g/index.md){ data-preview }
-
----
-
-## :lucide-server:{ .xl .middle .empty } **20x Self-Hosted**
+## :lucide-server:{ .xl .middle .empty } **20x Self-Hosted Rules**
 
 Collaborating with industry to identify effective existing commercial certifications and requirements that can be reused for self-hosted or hybrid-hosted
 services as an alternative to a traditional control-based approach for managing physical datacenter infrastructure.
@@ -54,3 +41,23 @@ any cloud service offering that is in process with an agency sponsor for Rev5 ca
 [Rev5 Program Closeout](rev5/index.md){ data-preview }
 
 ---
+
+## Government Facing Initiatives
+
+---
+
+
+## :lucide-cloud-sync:{ .xl .middle .placeholder } **Agency Cloud Use Pilot**
+
+Developing and testing the new FedRAMP Board-approved Cloud Authorization Management Framework and
+Cloud Security Authorization process with agencies - for both FedRAMP Rev5 and 20x.
+
+[Agency Cloud Use Pilot](use/index.md){ data-preview }
+
+---
+
+## :lucide-handshake:{ .xl .middle .stable }   **A-130 Class G Pilot**
+
+Working with agencies to implement government-specific expectations for agency-provided cloud service offerings created by government, for government.
+
+[A-130 Class G Pilot](g/index.md){ data-preview }

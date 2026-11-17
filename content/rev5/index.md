@@ -1,4 +1,7 @@
-# Rev5 Closeout
+# Rev5 Program Closeout
+
+!!! info "The Rev5 Program Closeout is primarily industry-facing but requires collaboration with agency stakeholders."
+
 
 - describes the pending Rev5 new certification closure
 - clarifies shutdown of the lost sponsor and ready pipelines

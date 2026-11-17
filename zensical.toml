@@ -1,32 +1,52 @@
 [project]
 nav = [
   { "Overview" = [
-  "index.md",
-        { "Related RFCs" = "rfcs.md"},
-        { "Changelog" = "changelog.md"}
-  ]},
+    "index.md",
+    { "Background" = "background.md" },
+    { "Changelog" = "changelog.md" },
+  ] },
   { "20x Class D Pilot" = [
     "d/index.md",
-       { "Schedule" = "d/schedule.md"},
-       { "Participation" = "d/participation.md"},
-       { "Rules" = "d/rules.md"},
-  ]},
-  { "Agency Cloud Use Pilot" = [
-    "use/index.md",
-        { "Placeholder" = "use/placeholder.md"}
-  ]},
-  { "A-130 Class G Pilot" = [
-    "g/index.md",
-        { "Placeholder" = "g/placeholder.md"}
-  ]},
-  { "20x Self-Hosted" = [
+    { "Background" = "d/background.md" },
+    { "Schedule" = "d/schedule.md" },
+    { "Participation" = "d/participation.md" },
+    { "Who's In" = "d/who.md" },
+    { "Rules" = "d/rules.md" },
+    { "Related RFCs" = "d/rfcs.md" },
+
+  ] },
+  { "20x Self-Hosted Rules" = [
     "self-hosted/index.md",
-        { "Schedule" = "self-hosted/schedule.md"},
-        { "Participation" = "self-hosted/participation.md"}
-  ]},
+    { "Background" = "self-hosted/background.md" },
+    { "Schedule" = "self-hosted/schedule.md" },
+    { "Participation" = "self-hosted/participation.md" },
+    { "Who's In" = "self-hosted/who.md" },
+    { "Related RFCs" = "self-hosted/rfcs.md" },
+
+  ] },
   { "Rev5 Program Closeout" = [
     "rev5/index.md",
-  ]},
+    { "Background" = "rev5/background.md" },
+    { "Schedule" = "rev5/schedule.md" },
+    { "Participation" = "rev5/participation.md" },
+  ] },
+  { "Agency Cloud Use Pilot" = [
+    "use/index.md",
+    { "Background" = "use/background.md" },
+    { "Schedule" = "use/schedule.md" },
+    { "Participation" = "use/participation.md" },
+    { "Who's In" = "use/who.md" },
+    { "Documentation" = "d/docs.md" },
+  ] },
+  { "A-130 Class G Pilot" = [
+    "g/index.md",
+    { "Background" = "g/background.md" },
+    { "Schedule" = "g/schedule.md" },
+    { "Participation" = "g/participation.md" },
+    { "Who's In" = "g/who.md" },
+    { "Rules" = "g/rules.md" },
+    { "Related RFCs" = "g/rfcs.md" },
+  ] },
   { "--> return to FedRAMP.gov" = "/" },
 ]
 
@@ -40,9 +60,7 @@ repo_url = "https://github.com/fedramp/phase4"
 repo_name = "FedRAMP/phase4"
 copyright = "fedramp.gov"
 
-extra_javascript = [
-  "https://www.fedramp.gov/javascripts/dap.js"
-]
+extra_javascript = ["https://www.fedramp.gov/javascripts/dap.js"]
 
 [project.extra]
 homepage = "/20x/phase4"

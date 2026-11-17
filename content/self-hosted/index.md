@@ -1,15 +1,46 @@
-# Self-Hosted Industry Engagement
+# 20x Self/Hybrid-Hosted Rules Development
 
-To enable maximum speed and widest adoption, FedRAMP 20x Phase 1-3 focused exclusively on developing an updated path for cloud services that were hosted on infrastructure or platforms that were already FedRAMP Rev5 Certified. This provided a path for the majority of cloud services, but de-prioritized a path for the rare services that operate their own physical infrastructure.
+!!! info "20x Self/Hybrid-Hosted Rules Development is an industry-facing initiative."
 
-FedRAMP plans to remedy this in the Consolidated Rules for 2027 by offering an expanded set of criteria for self-hosted or hybrid-hosted services to qualify for a FedRAMP 20x Certification of any Class. We understand that most companies who are responsible for their own infrastructure are already expected or required to meet stringent government regulations and commercial guidelines to operate datacenters safely. We anticipate leveraging those existing investments to the maximum extent possible.
+---
 
-!!! info "There is now a single Industry Engagement track for Phase 4."
+## :lucide-scroll:{ .xl .middle .empty } **Background**
 
-    [RFC-0033 Phase 4 Development Tracks for 20x Class D](https://www.fedramp.gov/rfcs/0033/) initially proposed 2 separate industry engagement tracks, one for cloud service providers and another for independent assessment services. We have reworked this into a single Industry Engagement track to ensure all activities align with the same schedule.
+FedRAMP 20x originally focused on cloud-hosted services so expanding coverage to self-hosted and hybrid-hosted services requires the development of a new approach to including assessment of the security of datacenter infrastructure and physical environments into a FedRAMP 20x Certification.
+
+Learn more at [Background](background.md){ data-preview }
+
+---
+
+## :lucide-calendar-clock:{ .xl .middle .empty } **Schedule**
+
+The development of 20x Self/Hybrid-Hosted rules will take place throughout 20x Phase 4, with public Requests For Comment and direct engagement with industry stakeholders.
+
+Learn more at [Schedule](schedule.md){ data-preview }
+
+---
 
 
-During Phase 4, FedRAMP will gather data and perspectives directly from current FedRAMP Certified cloud service providers with self-hosted or hybrid-hosted services and their independent assessment services. We will focus on industry standard certifications that are most widely used by these providers, and the deltas between those certifications and the requirements from existing FedRAMP Rev5. Our goal, where possible, will be to identify existing reusable certifications and classifications that can be included directly in a FedRAMP 20x Certification to address infrastructure-related controls.
+## :lucide-user-round-group:{ .xl .middle .empty } **Participation**
 
-FedRAMP will also publish at least 2 RFCs related to self-hosted and hybrid-hosted rules to ensure all stakeholders have the opportunity to participate.
+Anyone will be able to participate in Requests For Comment and other public engagements, but some cloud service providers and independent assessment services that meet specific criteria will also have the opportunity to share their experience directly with FedRAMP.
 
+Learn more at [Participation](participation.md){ data-preview }
+
+---
+
+## :lucide-user-round-check:{ .xl .middle .empty } **Who's In**
+
+It's always helpful to know who is actively participating in a formal way and learn a bit more about why they chose to participate.
+
+Learn more at [Who's In](who.md){ data-preview }
+
+---
+
+## :lucide-message-circle-question-mark:{ .xl .middle .empty } **Related RFCs**
+
+FedRAMP has published draft guidance related to the pilot to the public to receive feedback and comments via its official Request For Comment (RFC) process.
+
+Learn more at [Related RFCs](rfcs.md){ data-preview }
+
+---

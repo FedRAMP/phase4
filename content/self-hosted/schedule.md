@@ -1,5 +1,8 @@
 # Self-Hosted Industry Engagement Schedule
 
+!!! bug "this is incomplete"
+
+
 !!! warning "All dates are subject to change due to unanticipated events!"
 
 Engagement with industry began in **October, 2026.**

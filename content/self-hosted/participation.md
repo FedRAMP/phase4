@@ -1,5 +1,8 @@
 # Self-Hosted Industry Engagement Participation
 
+!!! bug "this is incomplete"
+
+
 FedRAMP will engage with all stakeholders regarding self-hosted and hybrid-hosted requirements via the FedRAMP Request for Comment (RFC) process. The RFC processes ensures equal access and consideration for all stakeholders.
 
 In addition, FedRAMP has offered the opportunity for direct engagement to a subset of key FedRAMP stakeholders as follows:
