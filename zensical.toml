@@ -26,9 +26,10 @@ nav = [
   ] },
   { "Rev5 Program Closeout" = [
     "rev5/index.md",
-    { "Background" = "rev5/background.md" },
-    { "Schedule" = "rev5/schedule.md" },
-    { "Participation" = "rev5/participation.md" },
+    { "Lost Sponsor" = "rev5/lost-sponsor.md" },
+    { "Ready Conversion" = "rev5/ready.md" },
+    { "Li-SaaS Conversion" = "rev5/li-saas.md" },
+    { "Endgame Certification" = "rev5/endgame.md" },
   ] },
   { "Agency Cloud Use Pilot" = [
     "use/index.md",

@@ -35,8 +35,7 @@ services as an alternative to a traditional control-based approach for managing 
 
 ## :lucide-rotate-cw-fading-clock:{ .xl .middle .empty } **Rev5 Program Closeout**
 
-New FedRAMP Rev5 Certification won't be available after June 11, 2027, so FedRAMP will initiate a special project in early 2027 to ensure that
-any cloud service offering that is in process with an agency sponsor for Rev5 can receive a FedRAMP Certification before the pipeline officially closes.
+Four closeout initiatives give eligible providers that have already invested in Rev5 a way to apply for Program Certification. Each initiative has its own eligibility criteria and application deadline. FedRAMP will close the Rev5 pipeline on June 11, 2027, and aims to complete outstanding reviews by the end of July 2027.
 
 [Rev5 Program Closeout](rev5/index.md){ data-preview }
 
