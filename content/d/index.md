@@ -6,14 +6,6 @@
 
 ---
 
-## :lucide-scroll:{ .xl .middle .empty } **Background**
-
-FedRAMP 20x Certifications were initially developed for historical Low then Moderate equivalent FedRAMP Certifications, but the push into Class D begins now.
-
-Learn more at [Background](background.md){ data-preview }
-
----
-
 ## :lucide-calendar-clock:{ .xl .middle .empty } **Schedule**
 
 The 20x Class D Pilot officially begins in January 2027 with the expectation that interested cloud services apply in early January, develop a draft pilot package by late March, and submit a final package by the end of May.

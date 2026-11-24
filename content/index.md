@@ -1,12 +1,8 @@
 # The latest on FedRAMP 20x Phase 4
 
-!!! danger "This site is under development. :)"
-
-    It shouldn't be public, but if you've stumbled across it, please stand by.
-
 FedRAMP 20x Phase 4 is a 9-month pilot and development phase intended to transition all new commercial FedRAMP Certifications to FedRAMP 20x. It began on **October 1, 2026 (FY27 Q1)** and will run through **June 30, 2027 (FY27 Q3)**.
 
-At the completion of Phase 4, FedRAMP 20x will move into Phase 5 which will focus on creating a transition path for legacy Rev5 Certifications.
+At the completion of Phase 4, FedRAMP 20x will move into Phase 5 which will focus on creating a transition path for legacy Rev5 Certifications and continuously improving FedRAMP 20x.
 
 ---
 

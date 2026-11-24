@@ -2,12 +2,10 @@
 nav = [
   { "Overview" = [
     "index.md",
-    { "Background" = "background.md" },
     { "Changelog" = "changelog.md" },
   ] },
   { "20x Class D Pilot" = [
     "d/index.md",
-    { "Background" = "d/background.md" },
     { "Schedule" = "d/schedule.md" },
     { "Participation" = "d/participation.md" },
     { "Who's In" = "d/who.md" },
