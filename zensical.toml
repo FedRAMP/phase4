@@ -18,7 +18,6 @@ nav = [
     { "Background" = "self-hosted/background.md" },
     { "Schedule" = "self-hosted/schedule.md" },
     { "Participation" = "self-hosted/participation.md" },
-    { "Who's In" = "self-hosted/who.md" },
     { "Related RFCs" = "self-hosted/rfcs.md" },
 
   ] },

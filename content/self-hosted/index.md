@@ -29,14 +29,6 @@ Learn more at [Participation](participation.md){ data-preview }
 
 ---
 
-## :lucide-user-round-check:{ .xl .middle .empty } **Who's In**
-
-It's always helpful to know who is actively participating in a formal way and learn a bit more about why they chose to participate.
-
-Learn more at [Who's In](who.md){ data-preview }
-
----
-
 ## :lucide-message-circle-question-mark:{ .xl .middle .empty } **Related RFCs**
 
 FedRAMP has published draft guidance related to the pilot to the public to receive feedback and comments via its official Request For Comment (RFC) process.

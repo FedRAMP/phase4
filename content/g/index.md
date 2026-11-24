@@ -1,14 +1,24 @@
 # The A-130 Class G Pilot
 
-!!! bug "placeholder"
-
 !!! info "The A-130 Class G Pilot is an internal government initiative."
+
+Beginning in January 2027, FedRAMP will pilot Class G Certification for cloud services that federal agencies operate for use by other agencies. The pilot will use the provider agency’s existing authorization to operate under OMB Circular A-130. FedRAMP will work with participating agencies to determine what additional information their customers need to evaluate and use a shared service.
+
+Agency providers with existing Marketplace listings and agency providers seeking their first listing can both participate. FedRAMP will meet with each interested agency to discuss how the rules apply to its offering and support its transition.
+
+---
+
+## :lucide-file-text:{ .xl .middle .empty } **Pilot Overview for Offline Reference**
+
+This document contains a full overview of the A-130 Class G Pilot, including the full Agency-Provided Offerings ruleset, for offline reference by agencies. Agencies should rely on the information on this web page for the latest updates but may use this PDF as needed with stakeholders that expect offline documents.
+
+Download the [A-130 Class G Pilot (Agency-Provided Offerings).pdf](A-130%20Class%20G%20Pilot%20%28Agency-Provided%20Offerings%29.pdf){ download }
 
 ---
 
 ## :lucide-scroll:{ .xl .middle .empty } **Background**
 
-FedRAMP 20x Certifications were initially developed for historical Low then Moderate equivalent FedRAMP Certifications, but the push into Class D begins now.
+Agency providers already assess, authorize, and monitor their own systems. The Agency-Provided Offerings rules explain how other agencies can reuse that work.
 
 Learn more at [Background](background.md){ data-preview }
 
@@ -16,7 +26,7 @@ Learn more at [Background](background.md){ data-preview }
 
 ## :lucide-calendar-clock:{ .xl .middle .empty } **Schedule**
 
-The 20x Class D Pilot officially begins in January 2027 with the expectation that interested cloud services apply in early January, develop a draft pilot package by late March, and submit a final package by the end of May.
+The pilot begins in January 2027. Interested agency providers can begin their transition as early as December 2026 after a kickoff meeting with FedRAMP.
 
 Learn more at [Schedule](schedule.md){ data-preview }
 
@@ -24,7 +34,7 @@ Learn more at [Schedule](schedule.md){ data-preview }
 
 ## :lucide-user-round-group:{ .xl .middle .empty } **Participation**
 
-Formal participation in the pilot is limited to companies that have applied for a FedRAMP 20x Class C Certification and present a successful pilot proposal to FedRAMP. Cloud services can always follow along with the Class D Pilot activities in public even if they don't make it into the formal pilot!
+The pilot is open to all agency-provided cloud services that meet the eligibility requirements, including offerings without a FedRAMP Marketplace listing. System owners can contact the [FedRAMP Director](mailto:pete@fedramp.gov) to participate.
 
 Learn more at [Participation](participation.md){ data-preview }
 
@@ -32,7 +42,7 @@ Learn more at [Participation](participation.md){ data-preview }
 
 ## :lucide-user-round-check:{ .xl .middle .empty } **Who's In**
 
-It's always helpful to know who is actively participating in a formal way and learn a bit more about why they chose to participate.
+Federal agencies that operate shared cloud services can participate as agency providers.
 
 Learn more at [Who's In](who.md){ data-preview }
 
@@ -40,7 +50,7 @@ Learn more at [Who's In](who.md){ data-preview }
 
 ## :lucide-ruler:{ .xl .middle .empty } **Rules**
 
-The 20x Class D Cloud-Hosted Rules build on the existing 20x Class C rules. The rules are primarily available in a machine-readable format with a human-readable version showing the differences generated for this web page.
+All Class G offerings follow the same Agency-Provided Offerings rules. The agency authorization determines which impact level the offering carries.
 
 Learn more at [Rules](rules.md){ data-preview }
 
@@ -48,10 +58,8 @@ Learn more at [Rules](rules.md){ data-preview }
 
 ## :lucide-message-circle-question-mark:{ .xl .middle .empty } **Related RFCs**
 
-FedRAMP has published draft guidance related to the pilot to the public to receive feedback and comments via its official Request For Comment (RFC) process.
+FedRAMP proposed the pathway in RFC-0032, Offerings By Government. Public Notice NTC-0019 announced the outcome and the Class G Pilot.
 
 Learn more at [Related RFCs](rfcs.md){ data-preview }
 
 ---
-
-
